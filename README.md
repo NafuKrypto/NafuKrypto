@@ -1,9 +1,11 @@
 ### Hi there 👋. I am Nafisa Alam. I have a Startup named Ongshak.
  We provide a platform to the creators and their solutions to the world.
- 
- Anyway, welcome to my github profile :tada: !!!
+ ```diff
+ + Anyway, welcome to my github profile  !!!  
+```
+:tada: :tada: :tada: :tada:
 
-
+![](me.png)
 
 <!--
 add colorful social links
