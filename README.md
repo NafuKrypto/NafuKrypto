@@ -1,5 +1,5 @@
-### Hi there 👋. I am Nafisa Alam. I have a Startup named Ongshak.
- We provide a platform to the creators and their solutions to the world.
+### Hi there 👋. I am Nafisa Alam.
+ I have a Startup named Ongshak.We provide a platform to the creators and their solutions to the world.
  ```diff
  + Anyway, welcome to my github profile  !!!  
 ```
