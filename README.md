@@ -38,3 +38,5 @@ Here are some ideas to get you started:-->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=tokyonight) -->
 
 ![](https://komarev.com/ghpvc/?username=NafuKrypto)
+## My Dev card
+<a href="https://app.daily.dev/nafisaalam"><img src="https://api.daily.dev/devcards/19fe0b7872cc4c7384b3308a779780b8.png?r=t0m" width="400" alt="Nafisa Alam's Dev Card"/></a>
