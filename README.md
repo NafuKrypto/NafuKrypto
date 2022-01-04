@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Nafisa Alam.
- I have a Startup named Ongshak.We provide a platform to the creators and their solutions to the world.
+ I am currently working with projects related to deep learning. I have worked with 3 start-ups and would love to work with more. If you have an idea or vision , I am all ears.
  ```diff
  + Anyway, welcome to my github profile  !!!  
 ```
@@ -14,14 +14,14 @@ add colorful social links
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on startups and trying to participate in Hackathons. If you want to team up , contact me.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on projects based on iOT, Android Development, Python , ML Projects , volnteery works, survey.
 - 🤔 I’m looking for help with women empowered platform.
 - 💬 Can Talk to me on Topics Tech , Starups , Friends(Tv Show), Agatha Cristie.
 - :book: You can lend me any type of books anytime.
-- 📫 How to reach me: nafisaalam@ongshak.com
+- 📫 How to reach me: nafisaalam777@gmail.com
 - 😄 Pronouns: HER
-<!--- ⚡ Fun fact:  I would love to -->
+- ⚡ Fun fact:  I love to make plans , then another plan to execute the first plan , then another one to execute the previous one and so on. My plans are like a recursive function without a terminating statement  
 <!--## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
