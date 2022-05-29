@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 </p>-->
 
 ## 🏆 My Github Status
-[![Nafisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=radical)] <!--my stats-->
+[![Nafisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=radical) <!--my stats-->
 
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&langs_count=6)](https://github.com/NafuKrypto/github-readme-stats)--><!--my langs-->
