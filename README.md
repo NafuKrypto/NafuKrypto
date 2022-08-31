@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Nafisa Alam.
- I am currently working with projects related to deep learning. I have worked with 3 start-ups and would love to work with more. If you have an idea or vision , I am all ears.
+ I am currently working with projects related to deep learning. I would love to collaborate. If you have an idea or vision , I am all ears.
  
 <a href="https://www.buymeacoffee.com/nafisaalamS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important  ;width: 150px !important ;"></a>
 
