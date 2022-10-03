@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 [![Nafisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=radical) <!--my stats-->
 
  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&langs_count=6)](https://github.com/NafuKrypto/github-readme-stats)--><!--my langs-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&langs_count=10)](https://github.com/NafuKrypto/github-readme-stats)--><!--my langs-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&theme=radical)<!--my langs-->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=tokyonight) -->
 
