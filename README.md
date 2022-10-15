@@ -37,7 +37,8 @@ Here are some ideas to get you started:-->
 
  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&langs_count=10)](https://github.com/NafuKrypto/github-readme-stats)--><!--my langs-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto&theme=radical)<!--my langs-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafuKrypto)<!--my langs-->
+ 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NafuKrypto&show_icons=true&theme=tokyonight) -->
 
 ![](https://komarev.com/ghpvc/?username=NafuKrypto)
